@@ -4,7 +4,7 @@
 
 - Install Redis using docker compose
   http://selftuts.in/install-redis-using-docker-compose/
-- Update yor docker URL in conn.js
+- Update your docker URL in conn.js
 
 ### Install dependencies
 
